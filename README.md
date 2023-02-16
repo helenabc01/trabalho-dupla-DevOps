@@ -1,3 +1,4 @@
+```
 # trabalho-dupla-DevOps
 Descrição do arquivo HTML
 
@@ -5,7 +6,7 @@ Este arquivo foi criado para estudos pessoais entra Helena e Izabela sobre o git
 Criamos arquivo simples no vscode com a finalidade de linkar com o repositório e rever os comandos do git bash. 
 
 Passo a passo: 
-```1-Entrar no github, você deve copiar link do repositório
+1-Entrar no github, você deve copiar link do repositório
 2-Abrir o Visual Studio Code(Baixar se não tiver em: https://code.visualstudio.com/)
 3-Abrir o terminal (localizado no menu superior) e selecionar "New terminal" então, digitar "git clone" + o link copiado do repositório anteriormente 
 4-Se tiver tudo correto, a pasta com o arquivo do repositório será exibida no VSCode.
