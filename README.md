@@ -1,5 +1,5 @@
 ```
-# trabalho-dupla-DevOps
+trabalho-dupla-DevOps
 Descrição do arquivo HTML
 
 Este arquivo foi criado para estudos pessoais entra Helena e Izabela sobre o git bash e os repositórios do github.
